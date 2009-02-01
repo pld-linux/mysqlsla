@@ -10,6 +10,7 @@ Source0:	http://hackmysql.com/scripts/%{name}-%{version}.tar.gz
 URL:		http://hackmysql.com/
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	perl-DBD-mysql
+BuildArch:	noarch
 
 %description
 mysqlsla parses, filters, analyzes and sorts MySQL slow, general,
