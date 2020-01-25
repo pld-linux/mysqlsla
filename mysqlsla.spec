@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	mysqlsla - MySQL slow log analyzer
 Name:		mysqlsla
 Version:	2.03
